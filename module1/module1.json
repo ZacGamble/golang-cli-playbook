@@ -18,7 +18,7 @@
 	"GOEXE": ".exe",
 	"GOEXPERIMENT": "",
 	"GOFLAGS": "",
-	"GOGCCFLAGS": "-m64 -mthreads -fno-caret-diagnostics -Qunused-arguments -Wl,--no-gc-sections -fmessage-length=0 -fdebug-prefix-map=C:\\Users\\ZAC~1.GAM\\AppData\\Local\\Temp\\go-build2953046233=/tmp/go-build -gno-record-gcc-switches",
+	"GOGCCFLAGS": "-m64 -mthreads -fno-caret-diagnostics -Qunused-arguments -Wl,--no-gc-sections -fmessage-length=0 -fdebug-prefix-map=C:\\Users\\ZAC~1.GAM\\AppData\\Local\\Temp\\go-build1660982309=/tmp/go-build -gno-record-gcc-switches",
 	"GOHOSTARCH": "amd64",
 	"GOHOSTOS": "windows",
 	"GOINSECURE": "",
